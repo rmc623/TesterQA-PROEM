@@ -1,0 +1,2 @@
+# TesterQA-PROEM
+Armado,diseño y ejecución de casos de pruebas(Test cases),según ERS (Use cases).Test plan.Test funcional(caja negra),no funcional.Testing manual:documentación. Metodologias agiles.Kanban.Scrum.Ambientes de testing QC/QA. Software para  testing de automatización:Registro de bugs:Redmine,Jira.Regresión: Selenium web driver.Katalon recorder.Testing unitario (java):JUnit.Webservice:Postman.Base de datos:consultas SQL.
